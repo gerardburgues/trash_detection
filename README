@@ -1,0 +1,5 @@
+This project consist to develop and compare multiple algorithms with a simple goal. Detect and classify what type of trash is on the street.
+To do so, we have implemented 2 algorithms:
+
+1. YOLO 
+2. Detectron (Mask R-CNN)
