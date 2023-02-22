@@ -1,3 +1,6 @@
+-- Be aware this was a university project and cleaninless wasn't my best friend
+
+
 This project consist to develop and compare multiple algorithms with a simple goal. Detect and classify what type of trash is on the street.
 To do so, we have implemented Detectron (Mask R-CNN).
 
